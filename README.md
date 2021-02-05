@@ -1,3 +1,6 @@
+Shape sorting game. Designed to implement drag and drop functionality, as well as a basic shape matching. 
+Built with the intent to repeat components. Randomized shapes from start will be a different selection and number every time.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
